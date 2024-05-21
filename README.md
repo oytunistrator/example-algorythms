@@ -1,1 +1,3 @@
-# example-algorythms
+# Örnek Algoritmalar
+
+Genelde kullanılan örnek algoritmalar.
